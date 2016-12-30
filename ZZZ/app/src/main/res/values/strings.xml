@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ZZZ</string>
+    <string name="title">단어를 입력한 뒤 Toast 버튼을 눌러주세요.</string>
+</resources>
